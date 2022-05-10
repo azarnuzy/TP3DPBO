@@ -34,8 +34,7 @@ Langkah-langkah untuk membuat virtualenv:
 Untuk menjalankan aplikasi ini dapat diikuti instruksi sebagai berikut
 1. Import database db_praktikum di phpmyadmin
 2. Aktifkan Apache dan mysql pada XAMPP
-3. Simpan Kode program di htdocs 
-4. Lalu buka aplikasi di browser dengan menggunakan url 'localhost/['isi dengan lokasi file yang disimpan]
+3. lalu jalankan perintah berikut pada terminal folder ini "py main.py"
 
 ### Result
 <p align="center">
