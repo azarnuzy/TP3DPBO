@@ -39,14 +39,14 @@ Untuk menjalankan aplikasi ini dapat diikuti instruksi sebagai berikut
 
 ### Result
 <p align="center">
-    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/master/Screenshoots/home.png" style="height:500px;">
+    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/main/Screenshoots/home.png" style="height:500px;">
 </p>
 <p align="center">
-    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/master/Screenshoots/allData.png" style="height:500px;">
+    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/main/Screenshoots/allData.png" style="height:500px;">
 </p>
 <p align="center">
-    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/master/Screenshoots/input.png" style="height:500px;">
+    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/main/Screenshoots/input.png" style="height:500px;">
 </p>
 <p align="center">
-    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/master/Screenshoots/facility.png" style="height:500px;">
+    <img src="https://github.com/azarnuzy/TP3DPBO2022/blob/main/Screenshoots/facility.png" style="height:500px;">
 </p>
